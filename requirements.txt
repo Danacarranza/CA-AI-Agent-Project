@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+plotly
+prophet
+textblob
+requests
+joblib
+scikit-learn
+pulp
+yagmail
+python-dotenv
